@@ -6,7 +6,7 @@
   <artifactId>Docker-Image-Sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  <finalName>Docker-Image-Sample</finalName> 
+  <finalName>docker-image-sample</finalName> 
   </build>
 
   <name>Docker-Image-Sample</name>

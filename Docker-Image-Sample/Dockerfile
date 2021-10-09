@@ -1,4 +1,4 @@
 FROM openjdk:11
 EXPOSE 8080
-ADD target/Docker-Image-Sample.jar Docker-Image-Sample.jar
-ENTRYPOINT ["java","-jar","/Docker-Image-Sample.jar"]
+ADD target/docker-image-sample.jar docker-image-sample.jar
+ENTRYPOINT ["java","-jar","/docker-image-sample.jar"]
