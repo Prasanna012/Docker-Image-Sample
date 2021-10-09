@@ -8,7 +8,6 @@
   <build>
   <finalName>Docker-Image-Sample</finalName> 
   </build>
-  <packaging>jar</packaging>
 
   <name>Docker-Image-Sample</name>
   <url>http://maven.apache.org</url>
