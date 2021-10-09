@@ -5,6 +5,9 @@
   <groupId>com.hello.world</groupId>
   <artifactId>Docker-Image-Sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  <finalName>Docker-Image-Sample</finalName>
+  </build>
   <packaging>jar</packaging>
 
   <name>Docker-Image-Sample</name>
