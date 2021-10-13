@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Demo {
 	public String helloworld()
 	{
-		return "Hello  Aravind";
+		return "Hello world";
 	}
 
 }
